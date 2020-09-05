@@ -1,0 +1,35 @@
+
+
+.row-menu {
+    background: blue;
+}
+
+
+.row-banner{
+    background: linear-gradient(253.6deg, #98D0FC 2.46%, #3481D7 93.24%);
+}
+
+
+.row-contenido{
+
+    background: #ffffff;;
+}
+
+.col-5-img{
+    right: 80px;
+    background-color: blueviolet;
+}
+
+
+.row-buscar {
+    background: blue;
+}
+
+
+
+
+
+.col-barra{
+    border-bottom: rgb(209, 209, 209) 2px solid;
+    width: 100%;
+}
