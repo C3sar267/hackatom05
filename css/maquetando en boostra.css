@@ -1,7 +1,7 @@
 
 
 .row-menu {
-    background: blue;
+    background: rgb(255, 255, 255)255, 255, 255);
 }
 
 
@@ -22,7 +22,7 @@
 
 
 .row-buscar {
-    background: blue;
+    background: rgb(255, 255, 255);
 }
 
 
@@ -32,4 +32,34 @@
 .col-barra{
     border-bottom: rgb(209, 209, 209) 2px solid;
     width: 100%;
+}
+
+
+
+.min{
+    font-family: Arial;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 24px;
+/* identical to box height, or 171% */
+
+letter-spacing: 0.04em;
+
+color: rgba(0, 0, 0, 0.4);
+}
+
+
+.tex-parrafo{
+
+    font-family: Arial;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 24px;
+/* or 171% */
+
+letter-spacing: 0.04em;
+
+color: rgba(0, 0, 0, 0.6);
 }
